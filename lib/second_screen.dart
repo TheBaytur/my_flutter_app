@@ -26,4 +26,4 @@ class SecondScreen extends StatelessWidget {
       ),
     );
   }
-}
+}2
